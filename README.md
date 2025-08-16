@@ -1,2 +1,19 @@
-# construct-a-secure-blockchain-dapp-gener
-A secure blockchain dApp with a generator feature.
+# Construct A Secure Blockchain Dapp Generator
+
+This repository contains an auto-generated Go file for:
+
+- construct a secure blockchain dApp generator
+- **Language**: Go
+
+## Description
+
+This file serves as a base implementation for the concept: *construct a secure blockchain dApp generator*.  
+It can be used for educational, prototyping, or inspiration purposes.
+
+## How to Use
+
+Clone the repo, open `3170_construct_a_sec.go` and extend or run it according to your needs.
+
+---
+
+
